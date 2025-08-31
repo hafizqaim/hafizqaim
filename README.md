@@ -2,13 +2,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Qaim+Ali!;" />
 </h1>
 
-<h2 align="center">A passionate ML Engineer</h2>**
+<h2 align="center">A passionate ML Engineer</h2>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a Whatsapp Clone using MERN Stack with MUI**
+ 🔭 I’m currently working on **my FYP, an intelligent medical reporting tool for radiologists.**
  
  🌱 I’m currently learning **Docker, Tensorflow and Pytorch**
 
@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/qaimali-ai/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://portfolio-website-ten-ashen.vercel.app/" target="_blank">
+  <a href="https://linktr.ee/mqaimali" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
